@@ -1,4 +1,0 @@
-#!/usr/bin/php
-<?php
-
-echo PHP_EOL . PHP_EOL. "PHP en mode " . php_sapi_name() . PHP_EOL . PHP_EOL;
